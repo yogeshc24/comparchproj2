@@ -1,7 +1,7 @@
 # Project 2 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Yogesh Chaudhary (916969303)
+Student 2: Bill Steeven Koumba Moussadji Lu (920768901)
 
 ## Project Status
 This the current status of the project ...
